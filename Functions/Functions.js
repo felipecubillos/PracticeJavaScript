@@ -41,7 +41,7 @@ function sayMyName(name) {
 console.log("Hello " + sayMyName("felipe"));
 
 console.log("***********************************");
-console.log("Other way to declare functions =>");
+console.log("Other way to declare functions =>  arrow function");
 
 const nameFunc = () => console.log("=> no parameters")
 
